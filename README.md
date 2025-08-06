@@ -56,7 +56,6 @@ O dashboard contempla as seguintes análises:
 ## 🤝 Contato
 
 Pedro Henrique Ceciliano  
-📧 [seu.email@email.com]  
 🔗 [LinkedIn](https://linkedin.com/in/phdceciliano)  
 🔗 [GitHub](https://github.com/phdceciliano)
 
